@@ -1,0 +1,65 @@
+*{
+    background-color: lightblue;
+}
+
+img{
+    width: 25vw;
+    height: 60vh;
+    margin-top: 40px;
+    margin-right: 40px;
+    margin-left: 40px;
+    border-radius: 10px;
+    margin-bottom: 40px;
+}
+article{
+    float: right;
+    align-items: center;
+    margin-top: 30vh ;
+    margin-right: 40vw;;
+    background-color: lightslategray;
+}
+
+p,h3{
+    background-color: lightslategray;
+}
+
+p{
+    color: white;
+    font-size: larger;
+}
+
+h3{
+    color: white;
+}
+.navbar-custom { 
+    background-color:lightblue; 
+} 
+
+a{
+    color: white;
+}
+
+section{
+    background-color: lightslategray;
+}
+.divin{
+    background-color: lightslategray;
+}
+
+.divin p{
+    margin-left: 40px;
+}
+
+.divin2{
+    background-color: lightslategrey;
+    width: 30vw;
+}
+
+.panel-collapse collapse{
+    background-color: lightslategrey;
+}
+
+.attr{
+    width: 60vw;
+    border-radius: 10px;
+}
